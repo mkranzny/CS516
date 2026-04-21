@@ -10,6 +10,9 @@ install vscode
 3. sudo apt-get install pip
 4. pip install opencv-python
 
+git config --global user.name "Mike Kranz"
+git config --global user.email "michaelskranz@gmail.com"
+
 https://learnopencv.com/moving-object-detection-with-opencv/
 https://docs.opencv.org/3.4/d8/d38/tutorial_bgsegm_bg_subtraction.html
 
