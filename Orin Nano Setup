@@ -24,3 +24,5 @@ scp -J mkranz@mcs.athens-mcs.net -r orinnanoone@10.0.0.230:~/Desktop/CS516remote
 explorer.exe opencv0.png
 
 rm -r CS516remote
+
+python test.py
