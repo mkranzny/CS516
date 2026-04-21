@@ -10,6 +10,8 @@ install vscode
 3. sudo apt-get install pip
 4. pip install opencv-python
 
+5. sudo apt-get install nano
+
 git config --global user.name "Mike Kranz"
 git config --global user.email "michaelskranz@gmail.com"
 
@@ -18,8 +20,6 @@ https://docs.opencv.org/3.4/d8/d38/tutorial_bgsegm_bg_subtraction.html
 
 ssh -J mkranz@mcs.athens-mcs.net orinnanoone@10.0.0.230
 scp -J mkranz@mcs.athens-mcs.net -r orinnanoone@10.0.0.230:~/Desktop/CS516remote/ ~/Desktop/
-
-sudo apt-get install nano
 
 explorer.exe opencv0.png
 
